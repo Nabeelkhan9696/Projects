@@ -2,7 +2,7 @@
 title: "Best Crystal Cat Litter for Odor Control: Scented or Not?"
 date: "2026-07-09"
 handle: "best-crystal-cat-litter-odor-control"
-shopify_gid: "pending-publish"
+shopify_gid: "gid://shopify/Article/570841169954"
 url: "https://www.clearlitter.com/blogs/news/best-crystal-cat-litter-odor-control"
 keyword: "best crystal cat litter for odor control"
 tags: ["crystal litter", "silica gel litter", "odor control", "cat litter guide", "scented litter"]

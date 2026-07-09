@@ -6,10 +6,11 @@ Reorder rows freely — seasonality and store data beat the original order.
 
 Already live on the blog (do not duplicate):
 - "Crystal vs Clumping Cat Litter: Which Is Actually Better?" (2026-05-11, `/blogs/news/crystal-vs-clumping-cat-litter-which-is-actually-better`)
+- "Best Crystal Cat Litter for Odor Control: Scented or Not?" (2026-07-09, `/blogs/news/best-crystal-cat-litter-odor-control`)
 
 | # | Target keyword | Working title | Intent | Products to link | Status |
 |---|---|---|---|---|---|
-| 1 | best crystal cat litter for odor control | Best Crystal Cat Litter for Odor Control: Scented vs Unscented | Buy | All 4 | queued |
+| 1 | best crystal cat litter for odor control | Best Crystal Cat Litter for Odor Control: Scented vs Unscented | Buy | All 4 | done 2026-07-09 |
 | 2 | cat litter that detects UTI | The Cat Litter That Detects UTIs Before Symptoms Show | Buy | Health Monitoring | queued |
 | 3 | how long does crystal cat litter last | How Long Does Crystal Cat Litter Last? (Real Numbers) | Buy-adjacent | Unscented, Lavender | queued |
 | 4 | how to switch cat to crystal litter | How to Switch Your Cat to Crystal Litter in 7 Days | Post-purchase / Buy | Unscented | queued |
