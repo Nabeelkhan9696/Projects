@@ -21,8 +21,8 @@ Never make the link a condition — it reads as (and is) link-buying.
 Hi [Name],
 
 I'm Nabeel, founder of Clear Litter — we make silica crystal cat litter and
-we're based in Orange, CA. I'd like to donate a case of our unscented crystal
-litter ([X] × 8 lb bags) to [Shelter Name], no strings attached.
+we're based in Orange, CA. I'd like to donate a case of our crystal litter
+([X] × 8 lb bags) to [Shelter Name], no strings attached.
 
 Crystal litter tends to work well in shelter settings: it's 99% dust-free
 (easier on cats with respiratory issues), controls ammonia odor for weeks,

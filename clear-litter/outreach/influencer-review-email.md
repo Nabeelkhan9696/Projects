@@ -34,9 +34,9 @@ say that too. An honest take is worth more to us (and your audience) than a
 scripted ad.
 
 If you're interested, tell me which you'd like to try and where to ship:
-- Unscented (our flagship)
+- Fresh Scent (our flagship, light "just-cleaned" scent)
 - Lavender or Citrus (lightly scented)
-- Health Monitoring (crystals change color to flag possible UTI/kidney issues)
+- Health Monitoring (unscented; crystals change color to flag possible UTI/kidney issues)
 
 Thanks either way — and give [cat's name] a chin scratch from me.
 

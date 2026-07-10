@@ -9,11 +9,15 @@ before (or right after) buying litter, and route that intent to product pages.
 
 | Product | URL | Price | Angle |
 | --- | --- | --- | --- |
-| Unscented Crystal Cat Litter, 8 lb | `/products/unscented-crystal-cat-litter-8lb` | $23.99 | Flagship; scent-sensitive cats |
+| Fresh Scent Crystal Cat Litter, 8 lb | `/products/fresh-scent-crystal-cat-litter` | $23.99 | Flagship; light "just-cleaned" scent |
 | Lavender Crystal Cat Litter, 8 lb | `/products/lavender-crystal-cat-litter` | $23.99 | Best-selling scented |
-| Citrus Breeze Crystal Cat Litter, 8 lb | `/products/citrus-breeze-crystal-clear-litter` | $23.99 | Fresh-scent alternative |
-| Health Monitoring Cat Litter, 8 lb | `/products/health-monitoring-cat-litter` | $26.99 | Unique differentiator — color-changing UTI/kidney detection. Highest margin, lowest keyword competition. Push hard. |
-| Variety Pack, 3 × 8 lb | `/products/crystal-cat-litter-variety-pack-3-8-lb-unscented-lavender-citrus` | $59.99 | AOV raiser — pitch in "which scent" and stock-up contexts. ~3-month supply for one cat. |
+| Citrus Breeze Crystal Cat Litter, 8 lb | `/products/citrus-breeze-crystal-clear-litter` | $23.99 | Brighter scented alternative |
+| Health Monitoring Cat Litter, 8 lb | `/products/health-monitoring-cat-litter` | $26.99 | Unique differentiator — color-changing UTI/kidney detection, and the ONLY unscented formula in the lineup. Highest margin, lowest keyword competition. Push hard. |
+| Variety Pack, 3 × 8 lb | `/products/crystal-cat-litter-variety-pack` | $59.99 | AOV raiser — pitch in "which scent" and stock-up contexts. ~3-month supply for one cat. |
+
+**Important (2026-07-10):** the flagship 8 lb (blue bag) is **Fresh Scent**, not
+unscented — it was mislabeled originally. When an article calls for a truly
+unscented recommendation, point to the Health Monitoring litter.
 
 Sitewide offers to mention where natural: **free shipping over $35** and the
 **SUBSCRIBE15** code (15% off).
