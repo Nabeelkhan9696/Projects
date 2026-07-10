@@ -46,6 +46,13 @@ before (or right after) buying litter, and route that intent to product pages.
   stay dense.
 - **FAQ block:** end with 3–4 real questions + concise answers (People-Also-Ask
   targets).
+- **FAQPage schema:** append a `<script type="application/ld+json">` block at
+  the very end of the body HTML containing schema.org `FAQPage` markup that
+  mirrors the FAQ block (same questions, plain-text answers). This makes the
+  article eligible for FAQ rich results.
+- **Clean HTML only:** body must be semantic markup only — `h2/h3/p/ul/ol/
+  table/blockquote/a/strong/em` with no class attributes, no wrapper divs,
+  no styles. Never paste HTML exported from another app.
 - **Tags:** 4–6, reuse the established set (`crystal litter`,
   `silica gel litter`, `cat litter guide`, `cat care`, `odor control`,
   `cat health`) plus 1 article-specific tag.

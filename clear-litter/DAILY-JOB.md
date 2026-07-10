@@ -17,7 +17,9 @@ focused and cheap.
 4. **Publish:** create the article via Shopify Admin GraphQL
    (`articleCreate`) on blog `gid://shopify/Blog/105530785826`:
    - `isPublished: true`, author "Clear Litter Team"
-   - body as clean HTML (h2/h3/p/ul/table/blockquote only)
+   - body as clean HTML (h2/h3/p/ul/table/blockquote only, no classes/divs)
+   - FAQPage JSON-LD `<script type="application/ld+json">` appended at the
+     end of the body, mirroring the article's FAQ block
    - tags per playbook
    - handle = short keyword slug
    - summary = the meta description
