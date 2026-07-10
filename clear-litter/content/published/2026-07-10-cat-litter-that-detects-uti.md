@@ -2,7 +2,7 @@
 title: "The Cat Litter That Detects UTIs Before Symptoms Show"
 date: "2026-07-10"
 handle: "cat-litter-that-detects-uti"
-shopify_gid: "pending-publish"
+shopify_gid: "gid://shopify/Article/570910638114"
 url: "https://www.clearlitter.com/blogs/news/cat-litter-that-detects-uti"
 keyword: "cat litter that detects UTI"
 tags: ["cat health", "crystal litter", "uti detection", "cat litter guide", "health monitoring litter"]
