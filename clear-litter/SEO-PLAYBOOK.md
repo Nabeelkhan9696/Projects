@@ -13,6 +13,10 @@ before (or right after) buying litter, and route that intent to product pages.
 | Lavender Crystal Cat Litter, 8 lb | `/products/lavender-crystal-cat-litter` | $23.99 | Best-selling scented |
 | Citrus Breeze Crystal Cat Litter, 8 lb | `/products/citrus-breeze-crystal-clear-litter` | $23.99 | Fresh-scent alternative |
 | Health Monitoring Cat Litter, 8 lb | `/products/health-monitoring-cat-litter` | $26.99 | Unique differentiator — color-changing UTI/kidney detection. Highest margin, lowest keyword competition. Push hard. |
+| Variety Pack, 3 × 8 lb | `/products/crystal-cat-litter-variety-pack-3-8-lb-unscented-lavender-citrus` | $59.99 | AOV raiser — pitch in "which scent" and stock-up contexts. ~3-month supply for one cat. |
+
+Sitewide offers to mention where natural: **free shipping over $35** and the
+**SUBSCRIBE15** code (15% off).
 
 ## Content strategy
 
