@@ -9,13 +9,14 @@ Already live on the blog (do not duplicate):
 - "Best Crystal Cat Litter for Odor Control: Scented or Not?" (2026-07-09, `/blogs/news/best-crystal-cat-litter-odor-control`)
 - "The Cat Litter That Detects UTIs Before Symptoms Show" (2026-07-10, `/blogs/news/cat-litter-that-detects-uti`)
 - "How Long Does Crystal Cat Litter Last? (Real Numbers)" (2026-07-11, `/blogs/news/how-long-does-crystal-cat-litter-last`)
+- "How to Switch Your Cat to Crystal Litter in 7 Days" (2026-07-12, `/blogs/news/how-to-switch-cat-to-crystal-litter`)
 
 | # | Target keyword | Working title | Intent | Products to link | Status |
 |---|---|---|---|---|---|
 | 1 | best crystal cat litter for odor control | Best Crystal Cat Litter for Odor Control: Scented vs Unscented | Buy | All 4 | done 2026-07-09 |
 | 2 | cat litter that detects UTI | The Cat Litter That Detects UTIs Before Symptoms Show | Buy | Health Monitoring | done 2026-07-10 |
 | 3 | how long does crystal cat litter last | How Long Does Crystal Cat Litter Last? (Real Numbers) | Buy-adjacent | Fresh Scent, Lavender | done 2026-07-11 |
-| 4 | how to switch cat to crystal litter | How to Switch Your Cat to Crystal Litter in 7 Days | Post-purchase / Buy | Fresh Scent | queued |
+| 4 | how to switch cat to crystal litter | How to Switch Your Cat to Crystal Litter in 7 Days | Post-purchase / Buy | Fresh Scent | done 2026-07-12 |
 | 5 | is crystal cat litter safe for cats | Is Crystal Cat Litter Safe? What Silica Gel Actually Is | Research | Fresh Scent, Health Monitoring | queued |
 | 6 | color changing cat litter meaning | What the Colors in Health-Monitoring Cat Litter Mean | Buy / Owner | Health Monitoring | queued |
 | 7 | crystal cat litter for multiple cats | Does Crystal Litter Work for Multi-Cat Homes? | Buy | Fresh Scent, Citrus | queued |
