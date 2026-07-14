@@ -2,7 +2,7 @@
 title: "Is Crystal Cat Litter Safe? What Silica Gel Actually Is"
 date: "2026-07-13"
 handle: "is-crystal-cat-litter-safe"
-shopify_gid: "pending-publish"
+shopify_gid: "gid://shopify/Article/571028275234"
 url: "https://www.clearlitter.com/blogs/news/is-crystal-cat-litter-safe"
 keyword: "is crystal cat litter safe for cats"
 tags: ["crystal litter", "silica gel litter", "cat litter safety", "cat health", "cat litter guide"]
