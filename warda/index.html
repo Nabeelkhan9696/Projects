@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sign in — Warda Job Hunt</title>
+  <meta name="description" content="Sign in to Warda, your job hunt companion. Track applications, discover openings, and land your next role." />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>🌹</text></svg>" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="shell">
+    <aside class="brand-panel">
+      <div class="logo"><span class="bloom">🌹</span> Warda</div>
+
+      <div class="brand-copy">
+        <h1>Your job hunt, beautifully organized.</h1>
+        <p>
+          Warda helps you discover openings, track every application, and
+          stay on top of interviews — so you can focus on landing the role,
+          not managing the chaos.
+        </p>
+      </div>
+
+      <div class="brand-stats">
+        <div class="stat"><b>12k+</b><span>Open roles</span></div>
+        <div class="stat"><b>4.8★</b><span>Avg. rating</span></div>
+        <div class="stat"><b>96%</b><span>Reply rate</span></div>
+      </div>
+    </aside>
+
+    <main class="form-panel">
+      <div class="card">
+        <h2>Welcome back</h2>
+        <p class="subtitle">Sign in to continue your job hunt.</p>
+
+        <div class="error" id="error" role="alert">
+          Invalid email or password. Try the demo credentials below.
+        </div>
+
+        <form id="signin-form" novalidate>
+          <div class="field">
+            <label for="email">Email address</label>
+            <input
+              type="email"
+              id="email"
+              name="email"
+              placeholder="you@example.com"
+              autocomplete="username"
+              required
+            />
+          </div>
+
+          <div class="field">
+            <label for="password">Password</label>
+            <input
+              type="password"
+              id="password"
+              name="password"
+              placeholder="••••••••"
+              autocomplete="current-password"
+              required
+            />
+          </div>
+
+          <div class="row-between">
+            <label class="remember">
+              <input type="checkbox" id="remember" /> Remember me
+            </label>
+            <a class="link" href="#" onclick="alert('Password reset is not available in the demo. Use the demo credentials shown on this page.'); return false;">Forgot password?</a>
+          </div>
+
+          <button type="submit" class="btn">Sign in</button>
+        </form>
+
+        <div class="demo-box">
+          <div class="demo-title">Demo credentials</div>
+          <div class="cred"><span>Email</span> <code>demo@warda.jobs</code></div>
+          <div class="cred"><span>Password</span> <code>Warda@2026</code></div>
+          <button class="demo-fill" id="demo-fill" type="button">
+            Fill demo credentials
+          </button>
+        </div>
+
+        <p class="foot-note">
+          New to Warda?
+          <a class="link" href="#" onclick="alert('Sign-up is coming soon. For now, use the demo credentials to explore.'); return false;">Create an account</a>
+        </p>
+      </div>
+    </main>
+  </div>
+
+  <script>
+    const DEMO_EMAIL = "demo@warda.jobs";
+    const DEMO_PASSWORD = "Warda@2026";
+
+    const form = document.getElementById("signin-form");
+    const errorBox = document.getElementById("error");
+
+    document.getElementById("demo-fill").addEventListener("click", () => {
+      document.getElementById("email").value = DEMO_EMAIL;
+      document.getElementById("password").value = DEMO_PASSWORD;
+      errorBox.classList.remove("show");
+    });
+
+    form.addEventListener("submit", (e) => {
+      e.preventDefault();
+      const email = document.getElementById("email").value.trim().toLowerCase();
+      const password = document.getElementById("password").value;
+
+      if (email === DEMO_EMAIL && password === DEMO_PASSWORD) {
+        sessionStorage.setItem("warda_session", JSON.stringify({
+          email: DEMO_EMAIL,
+          name: "Demo User",
+          signedInAt: new Date().toISOString(),
+        }));
+        window.location.href = "dashboard.html";
+      } else {
+        errorBox.classList.add("show");
+      }
+    });
+  </script>
+</body>
+</html>

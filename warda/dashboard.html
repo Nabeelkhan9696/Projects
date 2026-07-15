@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dashboard — Warda Job Hunt</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>🌹</text></svg>" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <nav class="dash-nav">
+    <div class="logo"><span class="bloom">🌹</span> Warda</div>
+    <button class="signout" id="signout">Sign out</button>
+  </nav>
+
+  <main class="dash-main">
+    <h2 id="greeting">Welcome back!</h2>
+    <p class="muted">Here are today's picks for you. This is a demo dashboard — data is illustrative.</p>
+
+    <div class="job-card">
+      <div>
+        <h3>Frontend Engineer</h3>
+        <p>Bloomtech Labs · Remote · $95k–$130k</p>
+        <span class="tag">React</span><span class="tag">TypeScript</span><span class="tag">Remote</span>
+      </div>
+      <button class="apply" onclick="alert('Applications are disabled in the demo.')">Apply</button>
+    </div>
+
+    <div class="job-card">
+      <div>
+        <h3>Product Designer</h3>
+        <p>Rosette Studio · Dubai, UAE · Hybrid</p>
+        <span class="tag">Figma</span><span class="tag">UX Research</span>
+      </div>
+      <button class="apply" onclick="alert('Applications are disabled in the demo.')">Apply</button>
+    </div>
+
+    <div class="job-card">
+      <div>
+        <h3>Data Analyst</h3>
+        <p>Petalworks · Karachi, PK · On-site</p>
+        <span class="tag">SQL</span><span class="tag">Python</span><span class="tag">Power BI</span>
+      </div>
+      <button class="apply" onclick="alert('Applications are disabled in the demo.')">Apply</button>
+    </div>
+
+    <div class="job-card">
+      <div>
+        <h3>Backend Engineer</h3>
+        <p>Thornfield Systems · Remote · $110k–$150k</p>
+        <span class="tag">Node.js</span><span class="tag">PostgreSQL</span><span class="tag">Remote</span>
+      </div>
+      <button class="apply" onclick="alert('Applications are disabled in the demo.')">Apply</button>
+    </div>
+  </main>
+
+  <script>
+    const raw = sessionStorage.getItem("warda_session");
+    if (!raw) {
+      window.location.replace("index.html");
+    } else {
+      const session = JSON.parse(raw);
+      document.getElementById("greeting").textContent =
+        "Welcome back, " + (session.name || "there") + "!";
+    }
+
+    document.getElementById("signout").addEventListener("click", () => {
+      sessionStorage.removeItem("warda_session");
+      window.location.replace("index.html");
+    });
+  </script>
+</body>
+</html>
