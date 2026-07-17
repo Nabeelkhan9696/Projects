@@ -12,6 +12,7 @@ Already live on the blog (do not duplicate):
 - "How to Switch Your Cat to Crystal Litter in 7 Days" (2026-07-12, `/blogs/news/how-to-switch-cat-to-crystal-litter`)
 - "Is Crystal Cat Litter Safe? What Silica Gel Actually Is" (2026-07-14, `/blogs/news/is-crystal-cat-litter-safe`)
 - "What the Colors in Health-Monitoring Cat Litter Mean" (2026-07-15, `/blogs/news/color-changing-cat-litter-meaning`)
+- "Does Crystal Litter Work for Multi-Cat Homes?" (2026-07-16, `/blogs/news/crystal-litter-multiple-cats`)
 
 | # | Target keyword | Working title | Intent | Products to link | Status |
 |---|---|---|---|---|---|
@@ -21,7 +22,7 @@ Already live on the blog (do not duplicate):
 | 4 | how to switch cat to crystal litter | How to Switch Your Cat to Crystal Litter in 7 Days | Post-purchase / Buy | Fresh Scent | done 2026-07-12 |
 | 5 | is crystal cat litter safe for cats | Is Crystal Cat Litter Safe? What Silica Gel Actually Is | Research | Fresh Scent, Health Monitoring | done 2026-07-14 |
 | 6 | color changing cat litter meaning | What the Colors in Health-Monitoring Cat Litter Mean | Buy / Owner | Health Monitoring | done 2026-07-15 |
-| 7 | crystal cat litter for multiple cats | Does Crystal Litter Work for Multi-Cat Homes? | Buy | Fresh Scent, Citrus | queued |
+| 7 | crystal cat litter for multiple cats | Does Crystal Litter Work for Multi-Cat Homes? | Buy | Fresh Scent, Citrus | done 2026-07-16 |
 | 8 | lavender scented cat litter | Lavender Cat Litter: Calming Scent or Gimmick? An Honest Look | Buy | Lavender, Fresh Scent | queued |
 | 9 | why does my house smell like cat litter | Why Your House Smells Like Litter (and the 15-Minute Fix) | Problem → Buy | Citrus, Fresh Scent | queued |
 | 10 | crystal cat litter dust | Is Crystal Litter Really Dust-Free? What Low-Dust Means | Research | Fresh Scent | queued |
