@@ -68,6 +68,41 @@ www.clearlitter.com
 
 ---
 
+## TikTok-specific process
+
+**Finding creators:** search #cattok #catsoftiktok #litterbox #catmom
+#seniorcat #cathealth #catuti. Target 5k–50k followers whose recent videos
+get 2k+ views. Best targets: creators who've publicly shared a cat urinary
+/ kidney scare (pitch Health Monitoring as relevant to their story, never
+exploit anything they haven't shared publicly).
+
+**Contact order:** bio email → TikTok DM → Instagram DM. Keep first DMs to
+two sentences, **no link** (links get spam-filtered). ~5 outreaches/day,
+not bulk. Once TikTok Shop is enabled, also list an open collaboration in
+the affiliate center at 15–20% commission so creators find us.
+
+### TikTok DM opener (no link, two sentences)
+
+> Hi [name] — loved the [specific video, e.g. "litter box tour with the
+> senior setup"]. I run a small crystal litter brand and would love to send
+> [cat's name] a free bag for an honest take (good or bad) — interested?
+
+If they reply, move to email with the full template above, plus:
+
+> We also do 15% commission on anything your audience buys through your
+> code/link — and if you ever post something you're proud of, we may ask
+> permission to boost it as a Spark Ad from your handle (paid placement,
+> your call entirely).
+
+### The two asks that turn a shout-out into a channel
+
+1. **Affiliate:** give each creator a personal 15% code (doubles as
+   tracking). TikTok Shop commission replaces this once Shop is live.
+2. **Spark Ad permission:** only ask *after* a video performs. Never
+   require it up front — it kills yeses.
+
+---
+
 ## Follow-up (one only, ~7 days later)
 
 Hi [Name] — just floating this back up in case it got buried. Happy to ship
