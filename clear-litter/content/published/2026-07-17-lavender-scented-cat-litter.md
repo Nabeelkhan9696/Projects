@@ -2,7 +2,7 @@
 title: "Lavender Cat Litter: Calming Scent or Gimmick?"
 date: "2026-07-17"
 handle: "lavender-scented-cat-litter"
-shopify_gid: "pending-publish"
+shopify_gid: "superseded — owner published this topic manually on 2026-07-17 as /blogs/news/lavender-cat-litter; this draft was not published"
 url: "https://www.clearlitter.com/blogs/news/lavender-scented-cat-litter"
 keyword: "lavender scented cat litter"
 tags: ["lavender", "scented litter", "crystal litter", "cat litter guide", "cat behavior"]
