@@ -14,6 +14,8 @@ Already live on the blog (do not duplicate):
 - "What the Colors in Health-Monitoring Cat Litter Mean" (2026-07-15, `/blogs/news/color-changing-cat-litter-meaning`)
 - "Does Crystal Litter Work for Multi-Cat Homes?" (2026-07-16, `/blogs/news/crystal-litter-multiple-cats`)
 - "Lavender Cat Litter: Calming or a Gimmick? An Honest Look" (2026-07-17, `/blogs/news/lavender-cat-litter` — published manually by owner)
+- "Looking for a PrettyLitter Alternative? An Honest Comparison" (2026-08-06, `/blogs/news/looking-for-a-prettylitter-alternative-an-honest-comparison` — published manually by owner)
+- "Why Your House Smells Like Litter (and the 15-Minute Fix)" (2026-08-27, `/blogs/news/house-smells-like-cat-litter`)
 
 | # | Target keyword | Working title | Intent | Products to link | Status |
 |---|---|---|---|---|---|
@@ -25,7 +27,7 @@ Already live on the blog (do not duplicate):
 | 6 | color changing cat litter meaning | What the Colors in Health-Monitoring Cat Litter Mean | Buy / Owner | Health Monitoring | done 2026-07-15 |
 | 7 | crystal cat litter for multiple cats | Does Crystal Litter Work for Multi-Cat Homes? | Buy | Fresh Scent, Citrus | done 2026-07-16 |
 | 8 | lavender scented cat litter | Lavender Cat Litter: Calming Scent or Gimmick? An Honest Look | Buy | Lavender, Fresh Scent | done 2026-07-17 (published manually) |
-| 9 | why does my house smell like cat litter | Why Your House Smells Like Litter (and the 15-Minute Fix) | Problem → Buy | Citrus, Fresh Scent | queued |
+| 9 | why does my house smell like cat litter | Why Your House Smells Like Litter (and the 15-Minute Fix) | Problem → Buy | Citrus, Fresh Scent | done 2026-08-27 |
 | 10 | crystal cat litter dust | Is Crystal Litter Really Dust-Free? What Low-Dust Means | Research | Fresh Scent | queued |
 | 11 | early signs of UTI in cats | 7 Early Signs of a UTI in Cats (Most Owners Miss #3) | Health → Buy | Health Monitoring | queued |
 | 12 | how often change crystal cat litter | How Often Should You Change Crystal Cat Litter? | Post-purchase | Fresh Scent, Lavender | queued |
