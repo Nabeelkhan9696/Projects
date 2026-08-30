@@ -17,6 +17,7 @@ Already live on the blog (do not duplicate):
 - "Looking for a PrettyLitter Alternative? An Honest Comparison" (2026-08-06, `/blogs/news/looking-for-a-prettylitter-alternative-an-honest-comparison` — published manually by owner)
 - "Why Your House Smells Like Litter (and the 15-Minute Fix)" (2026-08-27, `/blogs/news/house-smells-like-cat-litter`)
 - "Is Crystal Litter Really Dust-Free? What Low-Dust Means" (2026-08-29, `/blogs/news/crystal-litter-dust`)
+- "7 Early Signs of a UTI in Cats (Most Owners Miss #3)" (2026-08-30, `/blogs/news/early-signs-uti-cats`)
 
 | # | Target keyword | Working title | Intent | Products to link | Status |
 |---|---|---|---|---|---|
@@ -30,7 +31,7 @@ Already live on the blog (do not duplicate):
 | 8 | lavender scented cat litter | Lavender Cat Litter: Calming Scent or Gimmick? An Honest Look | Buy | Lavender, Fresh Scent | done 2026-07-17 (published manually) |
 | 9 | why does my house smell like cat litter | Why Your House Smells Like Litter (and the 15-Minute Fix) | Problem → Buy | Citrus, Fresh Scent | done 2026-08-27 |
 | 10 | crystal cat litter dust | Is Crystal Litter Really Dust-Free? What Low-Dust Means | Research | Fresh Scent | done 2026-08-29 |
-| 11 | early signs of UTI in cats | 7 Early Signs of a UTI in Cats (Most Owners Miss #3) | Health → Buy | Health Monitoring | queued |
+| 11 | early signs of UTI in cats | 7 Early Signs of a UTI in Cats (Most Owners Miss #3) | Health → Buy | Health Monitoring | done 2026-08-30 |
 | 12 | how often change crystal cat litter | How Often Should You Change Crystal Cat Litter? | Post-purchase | Fresh Scent, Lavender | queued |
 | 13 | cat litter for kidney disease monitoring | Monitoring Your Cat's Kidney Health From the Litter Box | Health → Buy | Health Monitoring | queued |
 | 14 | non clumping vs clumping litter pros cons | Non-Clumping Litter Pros and Cons Nobody Tells You | Research | Fresh Scent | queued |
