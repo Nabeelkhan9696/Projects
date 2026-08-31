@@ -18,6 +18,7 @@ Already live on the blog (do not duplicate):
 - "Why Your House Smells Like Litter (and the 15-Minute Fix)" (2026-08-27, `/blogs/news/house-smells-like-cat-litter`)
 - "Is Crystal Litter Really Dust-Free? What Low-Dust Means" (2026-08-29, `/blogs/news/crystal-litter-dust`)
 - "7 Early Signs of a UTI in Cats (Most Owners Miss #3)" (2026-08-30, `/blogs/news/early-signs-uti-cats`)
+- "How Often Should You Change Crystal Cat Litter?" (2026-08-31, `/blogs/news/how-often-change-crystal-litter`)
 
 | # | Target keyword | Working title | Intent | Products to link | Status |
 |---|---|---|---|---|---|
@@ -32,7 +33,7 @@ Already live on the blog (do not duplicate):
 | 9 | why does my house smell like cat litter | Why Your House Smells Like Litter (and the 15-Minute Fix) | Problem → Buy | Citrus, Fresh Scent | done 2026-08-27 |
 | 10 | crystal cat litter dust | Is Crystal Litter Really Dust-Free? What Low-Dust Means | Research | Fresh Scent | done 2026-08-29 |
 | 11 | early signs of UTI in cats | 7 Early Signs of a UTI in Cats (Most Owners Miss #3) | Health → Buy | Health Monitoring | done 2026-08-30 |
-| 12 | how often change crystal cat litter | How Often Should You Change Crystal Cat Litter? | Post-purchase | Fresh Scent, Lavender | queued |
+| 12 | how often change crystal cat litter | How Often Should You Change Crystal Cat Litter? | Post-purchase | Fresh Scent, Lavender | done 2026-08-31 |
 | 13 | cat litter for kidney disease monitoring | Monitoring Your Cat's Kidney Health From the Litter Box | Health → Buy | Health Monitoring | queued |
 | 14 | non clumping vs clumping litter pros cons | Non-Clumping Litter Pros and Cons Nobody Tells You | Research | Fresh Scent | queued |
 | 15 | best unscented cat litter sensitive cats | The Best Unscented Litter for Scent-Sensitive Cats | Buy | Health Monitoring (our only unscented) | queued |
